@@ -2,7 +2,7 @@
   <img src="https://github.com/Dada-coder/Dada-coder/blob/main/assets/giphy.gif" alt="Header" />
 </p>
 
-### About me
+## About me
 Здраствуйте! Меня зовут Давид!
 
 Работал с пет проектами своих однокурсников, составлял простые тест-кейсы,чек листы,тестовые наборы для них.
@@ -19,7 +19,7 @@
 Постоянно нахожусь в обучении.
 
 
-### Testing Documentation
+## Testing Documentation
 <ul>
   <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Checklists">Checklists</a></li>
   <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Test-Suites%20and%20Test-Cases">Test-Suites and Test-Cases</a></li>
@@ -28,7 +28,7 @@
   <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Postman%20Collections">Postman Collections</a></li>
 </ul>
 
-### Languages and Tools:
+## Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Swagger](https://img.shields.io/badge/-Swagger-090909?style=for-the-badge&logo=Swagger&logoColor=85EA2D)
