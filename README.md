@@ -18,6 +18,16 @@
 Заканчиваю несколько курсов по Qa.
 Постоянно нахожусь в обучении.
 
+
+### Testing Documentation
+<ul>
+  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Checklists">Checklists</a></li>
+  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Test-Suites%20and%20Test-Cases">Test-Suites and Test-Cases</a></li>
+  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Bug-Reports">Bug-Reports</a></li>
+  <li><a href="">Sql Queries</a></li>
+  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Postman%20Collections">Postman Collections</a></li>
+</ul>
+
 ### Languages and Tools:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=FF6C37)
@@ -30,12 +40,3 @@
 ![C#](https://img.shields.io/badge/-C%23-090909?style=for-the-badge&logo=C#&logoColor=239120)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-090909?style=for-the-badge&logo=Mysql&logoColor=CC2927)
 ![EFCore](https://img.shields.io/badge/-Entity%20Framework%20Core-090909?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-
-### Testing Documentation
-<ul>
-  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Checklists">Checklists</a></li>
-  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Test-Suites%20and%20Test-Cases">Test-Suites and Test-Cases</a></li>
-  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Bug-Reports">Bug-Reports</a></li>
-  <li><a href="">Sql Queries</a></li>
-  <li><a href="https://github.com/Dada-coder/Test-Documentation/tree/main/Postman%20Collections">Postman Collections</a></li>
-</ul>
